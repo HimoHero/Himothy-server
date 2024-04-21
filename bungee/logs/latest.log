@@ -138,3 +138,38 @@
 [17:50:47] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:36996]: Logged in as 'Himothy_herobrin'
 [17:50:47] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:36996|Himothy_herobrin] -> UpstreamBridge has connected
 [17:50:47] [Netty Worker IO Thread #7/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:36996] <-> ServerConnector [lobby] has connected
+[18:06:19] [Netty Worker IO Thread #6/INFO]: [human_dog] disconnected with: Server closed
+[18:06:19] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:49772|human_dog] -> UpstreamBridge has disconnected
+[18:06:19] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:49772|human_dog] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:06:19] [Netty Worker IO Thread #7/WARN]: [/[0:0:0:0:0:0:0:1%0]:36996|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[18:06:19] [Netty Worker IO Thread #7/INFO]: [Himothy_herobrin] disconnected with: The server you were previously on went down, you have been connected to a fallback server
+[18:06:19] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:36996|Himothy_herobrin] -> UpstreamBridge has disconnected
+[18:06:19] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:36996|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[18:06:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52480]: Connected via websocket
+[18:06:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52480]: Origin header is https://asianclient.vercel.app
+[18:06:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52480]: Logged in as 'Himothy_herobrin'
+[18:06:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52480|Himothy_herobrin] -> UpstreamBridge has connected
+[18:06:26] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Himothy_herobrin AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:06:26] [Netty Worker IO Thread #2/INFO]: [Himothy_herobrin] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:06:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52480|Himothy_herobrin] -> UpstreamBridge has disconnected
+[18:06:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52496]: Connected via websocket
+[18:06:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52496]: Origin header is null
+[18:06:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52496]: Logged in as 'human_dog'
+[18:06:27] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:52496|human_dog] -> UpstreamBridge has connected
+[18:06:27] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for human_dog AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:06:27] [Netty Worker IO Thread #3/INFO]: [human_dog] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:06:27] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:52496|human_dog] -> UpstreamBridge has disconnected
+[18:07:31] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44130]: Connected via websocket
+[18:07:31] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44130]: Origin header is null
+[18:07:31] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44130]: Logged in as 'human_dog'
+[18:07:31] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:44130|human_dog] -> UpstreamBridge has connected
+[18:07:31] [Netty Worker IO Thread #5/WARN]: Error occurred processing connection for human_dog AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:07:31] [Netty Worker IO Thread #5/INFO]: [human_dog] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:07:31] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:44130|human_dog] -> UpstreamBridge has disconnected
+[18:07:50] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37600]: Connected via websocket
+[18:07:50] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37600]: Origin header is https://asianclient.vercel.app
+[18:07:50] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37600]: Logged in as 'Himothy_herobrin'
+[18:07:50] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:37600|Himothy_herobrin] -> UpstreamBridge has connected
+[18:07:50] [Netty Worker IO Thread #6/WARN]: Error occurred processing connection for Himothy_herobrin AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:07:50] [Netty Worker IO Thread #6/INFO]: [Himothy_herobrin] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:07:50] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:37600|Himothy_herobrin] -> UpstreamBridge has disconnected
