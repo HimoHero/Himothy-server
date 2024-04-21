@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "413cfc51-6ee0-31ce-bbdb-6dd7b88c4e57",
+    "name": "human_dog",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "88aa14a4-9095-31e3-a02c-7cf9ec77ec94",
     "name": "Himothy_herobrin",
     "level": 4,
