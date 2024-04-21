@@ -173,3 +173,10 @@
 [18:07:50] [Netty Worker IO Thread #6/WARN]: Error occurred processing connection for Himothy_herobrin AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [18:07:50] [Netty Worker IO Thread #6/INFO]: [Himothy_herobrin] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [18:07:50] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:37600|Himothy_herobrin] -> UpstreamBridge has disconnected
+[18:09:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51630]: Connected via websocket
+[18:09:55] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51630]: Origin header is https://asianclient.vercel.app
+[18:09:56] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:51630]: Logged in as 'Himothy_herobrin'
+[18:09:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:51630|Himothy_herobrin] -> UpstreamBridge has connected
+[18:09:56] [Netty Worker IO Thread #3/WARN]: Error occurred processing connection for Himothy_herobrin AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[18:09:56] [Netty Worker IO Thread #3/INFO]: [Himothy_herobrin] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[18:09:56] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:51630|Himothy_herobrin] -> UpstreamBridge has disconnected
