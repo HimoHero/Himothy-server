@@ -335,3 +335,7 @@ java.lang.NullPointerException: Cannot invoke "com.earth2me.essentials.Backup.st
 [02:23:55] [Thread-7/INFO]: UUID of player Himothy_herobrin is 88aa14a4-9095-31e3-a02c-7cf9ec77ec94
 [02:23:55] [Server thread/INFO]: Himothy_herobrin[/[0:0:0:0:0:0:0:1]:34032] logged in with entity id 438 at ([world]-61.69999998807906, 95.0, 53.71573440678305)
 [02:24:04] [Server thread/INFO]: Himothy_herobrin issued server command: /plugins
+[02:25:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[02:25:53] [Server thread/INFO]: You have successfully installed the [0;32;1mESSENTIALS[0;37;1m plugin![m
+
