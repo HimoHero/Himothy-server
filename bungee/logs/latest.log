@@ -79,3 +79,14 @@
 [01:36:28] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57366]: Logged in as 'Himothy_herobrin'
 [01:36:28] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57366|Himothy_herobrin] -> UpstreamBridge has connected
 [01:36:28] [Netty Worker IO Thread #7/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:57366] <-> ServerConnector [lobby] has connected
+[01:43:55] [Netty Worker IO Thread #7/INFO]: [Himothy_herobrin] disconnected with: Server closed
+[01:43:55] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57366|Himothy_herobrin] -> UpstreamBridge has disconnected
+[01:43:55] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57366|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:44:24] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54074]: Connected via websocket
+[01:44:24] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54074]: Origin header is https://asianclient.vercel.app
+[01:44:25] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:54074]: Logged in as 'Himothy_herobrin'
+[01:44:25] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54074|Himothy_herobrin] -> UpstreamBridge has connected
+[01:44:25] [Netty Worker IO Thread #1/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:54074] <-> ServerConnector [lobby] has connected
+[02:07:51] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54074|Himothy_herobrin] -> UpstreamBridge has disconnected
+[02:07:51] [Netty Worker IO Thread #1/INFO]: [Himothy_herobrin] disconnected with: Proxy lost connection to server.
+[02:07:51] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54074|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
