@@ -293,3 +293,11 @@
 
 [00:58:10] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[01:10:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[01:12:04] [Thread-8/INFO]: UUID of player Himothy_herobrin is 88aa14a4-9095-31e3-a02c-7cf9ec77ec94
+[01:12:04] [Server thread/INFO]: Himothy_herobrin[/[0:0:0:0:0:0:0:1]:48750] logged in with entity id 295 at ([world]-10.449444089058238, 84.25574494653443, -123.9708490841204)
+[01:13:01] [Server thread/INFO]: Himothy_herobrin issued server command: /enchant @p minecraft:protection 4
+[01:13:01] [Server thread/INFO]: [Himothy_herobrin: Enchanting succeeded]
+[01:18:55] [Server thread/INFO]: Himothy_herobrin lost connection: Disconnected
+[01:18:55] [Server thread/INFO]: Himothy_herobrin left the game.

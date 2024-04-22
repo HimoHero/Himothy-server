@@ -49,3 +49,12 @@
 [00:54:41] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [00:54:41] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/Himothy-server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
 [00:58:20] [main/INFO]: Command not found
+[00:59:47] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/Himothy-server/bungee/server-icon.png
+[01:12:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38022]: Connected via websocket
+[01:12:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38022]: Origin header is https://asianclient.vercel.app
+[01:12:04] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38022]: Logged in as 'Himothy_herobrin'
+[01:12:04] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38022|Himothy_herobrin] -> UpstreamBridge has connected
+[01:12:04] [Netty Worker IO Thread #2/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:38022] <-> ServerConnector [lobby] has connected
+[01:18:55] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38022|Himothy_herobrin] -> UpstreamBridge has disconnected
+[01:18:55] [Netty Worker IO Thread #2/INFO]: [Himothy_herobrin] disconnected with: Proxy lost connection to server.
+[01:18:55] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:38022|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
