@@ -90,3 +90,16 @@
 [02:07:51] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54074|Himothy_herobrin] -> UpstreamBridge has disconnected
 [02:07:51] [Netty Worker IO Thread #1/INFO]: [Himothy_herobrin] disconnected with: Proxy lost connection to server.
 [02:07:51] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:54074|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:14:15] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40356]: Connected via websocket
+[02:14:15] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40356]: Origin header is https://asianclient.vercel.app
+[02:14:16] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40356]: Logged in as 'Himothy_herobrin'
+[02:14:16] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:40356|Himothy_herobrin] -> UpstreamBridge has connected
+[02:14:16] [Netty Worker IO Thread #4/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:40356] <-> ServerConnector [lobby] has connected
+[02:16:10] [Netty Worker IO Thread #4/INFO]: [Himothy_herobrin] disconnected with: Server closed
+[02:16:10] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:40356|Himothy_herobrin] -> UpstreamBridge has disconnected
+[02:16:10] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:40356|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:23:54] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39336]: Connected via websocket
+[02:23:54] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39336]: Origin header is https://asianclient.vercel.app
+[02:23:55] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:39336]: Logged in as 'Himothy_herobrin'
+[02:23:55] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:39336|Himothy_herobrin] -> UpstreamBridge has connected
+[02:23:55] [Netty Worker IO Thread #5/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:39336] <-> ServerConnector [lobby] has connected
