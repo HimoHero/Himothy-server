@@ -63,3 +63,19 @@
 [01:26:29] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56148]: Logged in as 'Himothy_herobrin'
 [01:26:29] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:56148|Himothy_herobrin] -> UpstreamBridge has connected
 [01:26:29] [Netty Worker IO Thread #4/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:56148] <-> ServerConnector [lobby] has connected
+[01:31:58] [Netty Worker IO Thread #4/INFO]: [Himothy_herobrin] disconnected with: Server closed
+[01:31:58] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:56148|Himothy_herobrin] -> UpstreamBridge has disconnected
+[01:31:58] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:56148|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:32:26] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42222]: Connected via websocket
+[01:32:26] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42222]: Origin header is https://asianclient.vercel.app
+[01:32:27] [Netty Worker IO Thread #6/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42222]: Logged in as 'Himothy_herobrin'
+[01:32:27] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:42222|Himothy_herobrin] -> UpstreamBridge has connected
+[01:32:27] [Netty Worker IO Thread #6/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:42222] <-> ServerConnector [lobby] has connected
+[01:36:15] [Netty Worker IO Thread #6/INFO]: [Himothy_herobrin] disconnected with: Server closed
+[01:36:15] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:42222|Himothy_herobrin] -> UpstreamBridge has disconnected
+[01:36:15] [Netty Worker IO Thread #6/INFO]: [/[0:0:0:0:0:0:0:1%0]:42222|Himothy_herobrin] <-> DownstreamBridge <-> [lobby] has disconnected
+[01:36:28] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57366]: Connected via websocket
+[01:36:28] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57366]: Origin header is https://asianclient.vercel.app
+[01:36:28] [Netty Worker IO Thread #7/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57366]: Logged in as 'Himothy_herobrin'
+[01:36:28] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:57366|Himothy_herobrin] -> UpstreamBridge has connected
+[01:36:28] [Netty Worker IO Thread #7/INFO]: [Himothy_herobrin|/[0:0:0:0:0:0:0:1%0]:57366] <-> ServerConnector [lobby] has connected
