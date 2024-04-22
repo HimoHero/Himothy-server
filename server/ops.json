@@ -15,6 +15,6 @@
     "uuid": "88aa14a4-9095-31e3-a02c-7cf9ec77ec94",
     "name": "Himothy_herobrin",
     "level": 4,
-    "bypassesPlayerLimit": false
+    "bypassesPlayerLimit": true
   }
 ]

@@ -301,3 +301,7 @@
 [01:13:01] [Server thread/INFO]: [Himothy_herobrin: Enchanting succeeded]
 [01:18:55] [Server thread/INFO]: Himothy_herobrin lost connection: Disconnected
 [01:18:55] [Server thread/INFO]: Himothy_herobrin left the game.
+[01:26:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[01:26:29] [Thread-9/INFO]: UUID of player Himothy_herobrin is 88aa14a4-9095-31e3-a02c-7cf9ec77ec94
+[01:26:30] [Server thread/INFO]: Himothy_herobrin[/[0:0:0:0:0:0:0:1]:40258] logged in with entity id 443 at ([world]-4.300000011920929, 84.25574494653443, -129.75424700054182)
